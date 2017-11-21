@@ -6,7 +6,8 @@ Hi Y'all!
 
 
 tf is this
-sdkjskdldj
+
+
 
 
 
@@ -32,13 +33,6 @@ this is not lit
 
 
 
-
-
-
-
-
-
-yeshi
 why cant we get this to work
 
 
@@ -51,6 +45,20 @@ Boom.
 
 Alan was here.
 
+sup alan ^^
 
 
 
+
+
+
+
+
+
+
+
+yeshi
+
+
+
+Im on line 50
